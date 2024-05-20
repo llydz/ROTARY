@@ -1,24 +1,24 @@
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./STYLE/CSS/register.css">
     <title>Register</title>
 </head>
-<body style="background-color:#D9DCDA; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+<body>
     
 <div class="regcontainer">
 
-    <div class="centered">
+    <div class="reg-centered">
 
         <form action="" method="">
 
             <div class="imgcontainer">
-                <h1 style="color: #D9DCDA;">ROTARY </h1><h1 style="color: #545454;">ADMIN REGISTER</h1> <br> <br>
+                <h1 style="color: #D9DCDA;margin-bottom: 7px;">ROTARY </h1><h1 style="color: #545454;">ADMIN REGISTER</h1> <br> <br>
 
                 <img src="logo-whitebg.png" alt="Avatar" class="logo"> <br> <br>
 
             </div>
 
-            <div class="container5">
+            <div class="container1">
                 
                 <label class="left" for="name"><b>Full Name</b></label> <br>
                 <input type="text" placeholder="Enter Name" name="name" required>
